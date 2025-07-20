@@ -56,8 +56,8 @@ Both games are built using Python and are playable in the terminal/console. The 
 
 ```
 games/
-├── pet_simulator.py  # Pet class and simulation logic
-├── memory_game.py    # Memory card game logic
+├── petsim.py         # Pet class and simulation logic
+├── memcard.py        # Memory card game logic
 └── README.md         # Project description and guide
 ```
 
